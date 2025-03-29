@@ -1,6 +1,6 @@
 ## Prediction of cement composite strength model
 
-##Abstract:
+## Abstract:
 Concrete is the most important material in civil engineering. The 
 concrete compressive strength is a highly nonlinear function of age and 
 ingredients. These ingredients include cement, blast furnace slag, fly ash, 
